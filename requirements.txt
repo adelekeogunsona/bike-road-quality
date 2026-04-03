@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+matplotlib
+plotly
+folium
+streamlit
+streamlit-folium
+h5py
+mat73
